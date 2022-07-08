@@ -4,7 +4,9 @@ If you want to learn, start with Basics and move forward towards Deep Learning B
 
 ## Catalog
 Basics: Learn basic data types, logics, functions, error handlings, etc.
+
 DL Basics: Learn basic ideas behind ML/DL which includes gradient descent, loss function, etc.
+
 DL CNN: Learn convolutional neural networks
 
 Spider: a demo for python spider using beautiful-soup etc., in case you are interested.
